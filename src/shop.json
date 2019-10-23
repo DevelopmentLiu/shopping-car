@@ -1,0 +1,37 @@
+{
+  "shopList":[
+    {
+      "fid":1,
+      "name":"紫罗兰旗舰店",
+      "choose":false,
+      "dataList":[
+        {"cid":100, "cname":"瑜伽服女初学者薄款居家大码网红速干衣夏天跑步健身房运动套装","price":100,"num":1,"description":"白色(短袖+短裤+长袖)三件套；L","isChange":false},
+        {"cid":101, "cname":"网红速干衣夏天跑步健身房运动套装","price":1000,"num":2,"description":"蓝色(短袖+短裤)两件套；XL","isChange":false},
+        {"cid":102, "cname":"夏天跑步健身房运动套装","price":78,"num":3,"description":"黑色(短袖+长袖)四件套；XXL","isChange":false},
+        {"cid":103, "cname":"测试数据","price":56,"num":10,"description":"黑色(短袖+长袖)四件套；XXL","isChange":false}
+      ]
+    },
+    {
+      "fid":2,
+      "name":"三只松鼠旗舰店",
+      "choose":false,
+      "dataList":[
+        {"cid":200, "cname":"碧根果属纯野生果类是集山地之灵气哺育而成","price":200,"num":1,"description":"一件","isChange":false},
+        {"cid":201, "cname":"夏威夷果又名“澳洲坚果”被认为是世界上最好的桌上坚果之一","price":99,"num":5,"description":"两件","isChange":false},
+        {"cid":202, "cname":"吊瓜子本名栝楼籽吊瓜籽粒大肉多含丰富的不饱和脂肪酸","price":66,"num":8,"description":"三件","isChange":false},
+        {"cid":203, "cname":"和田玉枣：产出的和田的大红枣","price":77,"num":11,"description":"十件","isChange":false},
+        {"cid":204, "cname":"美观呈椭圆形肉实质脆果实圆润饱满晒干后为深红色吃后满口余香","price":22,"num":24,"description":"两件","isChange":false}
+      ]
+    },
+    {
+      "fid":3,
+      "name":"安踏旗舰店",
+      "choose":false,
+      "dataList":[
+        {"cid":300, "cname":"男士红色运动鞋防滑防遛软底","price":300,"num":6,"description":"一件","isChange":false},
+        {"cid":301, "cname":"女士黑色休闲鞋","price":200,"num":3,"description":"两件","isChange":false},
+        {"cid":302, "cname":"男士休闲鞋黄色黑色蓝色","price":88,"num":9,"description":"三件","isChange":false}
+      ]
+    }
+  ]
+}
