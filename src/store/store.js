@@ -13,7 +13,11 @@ const state = {
     {navName:"订单",isActive:false},
     {navName:"铁路会员",isActive:false},
     {navName:"我的",isActive:false},
-  ]
+  ],
+  adreesLf:'北京',
+  addreeRt:'上海',
+  dateString:'', //日期
+  XqString:''   //星期几
 };
 
 const mutations = {
@@ -25,9 +29,14 @@ const mutations = {
         index.isActive = false;
       }
     });
-
+  },
+  increment(state,payload){
+    state.adreesLf = payload.lfName;
+    state.addreeRt = payload.rtName;
   }
 }
+
+
 
 export default new Vuex.Store({
   state,
